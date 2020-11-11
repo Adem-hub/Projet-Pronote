@@ -103,7 +103,8 @@ class Pronote:
 
         f = open("NombreNotes.txt", "r+")
         New=f.read()
-        Nbre_Notes=int(New[-2:])
+        Note=New.replace(' ','')
+        Nbre_Notes=int(Note)
 
 
         #On send la notif
