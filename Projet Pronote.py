@@ -115,9 +115,7 @@ class Pronote:
         else:
             print('aucune note')
 
-def Look_New_Mark():
-    Adem=Pronote('adem.benrhouma','Adem2003@',"o.J669zeEpYeZpHcWte0C0tt5ONmkXgZsr")
-    Adem.driver.quit()
+
 
 
 
