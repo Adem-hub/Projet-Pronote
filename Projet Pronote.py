@@ -111,13 +111,6 @@ class Pronote:
 
 
 
-def Look_New_Mark():
-    while True:
-        Othman=Pronote('othman.boudarga','Boudarga31082005',"o.J669zeEpYeZpHcWte0C0tt5ONmkXgZsr")
-        Adem=Pronote('adem.benrhouma','Adem2003@',"o.J669zeEpYeZpHcWte0C0tt5ONmkXgZsr")
-        time.sleep(1200)
-
-
 
 
 
